@@ -1,0 +1,10 @@
+name: hltip
+version: '1.0'
+main: com.hltip.Hltip
+api-version: '1.20'
+authors: [ huishi6014 ]
+softdepend: ["PlaceholderAPI"]
+commands:
+  htip:
+    description: "指令"
+    permission: hltip.Main

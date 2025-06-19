@@ -1,0 +1,8 @@
+#输入 \n进行换行
+#插件内置占位符 %player_join%
+#"&"变色符号
+
+join_message: "&7%player_join% &b加入游戏"
+private_message: "&7%player_join% &b你好"
+title_message: ""
+subtitle_message: ""
